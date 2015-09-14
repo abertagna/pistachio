@@ -1,2 +1,2 @@
 # pistachio
-Great recipes for home-made buiscuits
+Great recipes for home-made biscuits
